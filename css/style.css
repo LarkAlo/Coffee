@@ -2,6 +2,23 @@ body {
   background: beige;
 }
 
-.coffee {
+h1,
+p {
+  text-align: center;
+}
+
+.coffee-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
   color: brown;
 }
